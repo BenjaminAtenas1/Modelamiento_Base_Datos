@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Semana2" id="3609DE2E-DCA9-BC6C-7604-AA9B55513AD6" version="3.5">
+<createdBy>Dell</createdBy>
+<createdTime>2026-08-23 00:43:15 UTC</createdTime>
+<ownerDesignName>Semana2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3609DE2E-DCA9-BC6C-7604-AA9B55513AD6</designId>
+</OSDM_Design>
